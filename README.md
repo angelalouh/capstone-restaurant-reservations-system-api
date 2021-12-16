@@ -1,5 +1,5 @@
 # Capstone: Restaurant Reservation System API
-Server API interface for storing and delivering a restaurant's reservations and tables data.
+Backend and API of the Restaurant Reservation System for storing and delivering a restaurant's reservations and tables data.
 
 ## Links:
 - [App Demo](https://capstone-restaurant-reservations-system.vercel.app/)
